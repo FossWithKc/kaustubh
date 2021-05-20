@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaustubh-chavan-prog
 - 👀 I’m interested in C++ and JAVA projects, especially learning to apply Data Structures.
 - 🌱 I’m currently learning C++, JAVA, Discrete Mathematics, Engineering Mathematics, Data Structures, Arduino, Microprocessors.
-- 💞️ I’m looking to collaborate on all the topics i'm currently studying
+- 💞️ I’m looking to collaborate on all the topics I'm currently studying
 - 📫 You can contact me through my email - kaustubh.education1@gmail.com
 
 <!---
